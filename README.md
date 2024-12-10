@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raine-4
 - 👀 I’m interested in Artificial Intelligence although/because I know nothing about it.
-- 🌱 I’m currently learning Mechanical Engineering and going to learn Medical Robotics in @ImperialCollege
+- 🌱 I’m currently a Master of Research in Medical Robotics and Image-Guided Intervention @ImperialCollege
 - 📫 How to reach me: my IG account is @therainwind
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My existence is a fun fact.
